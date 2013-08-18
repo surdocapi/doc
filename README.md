@@ -42,8 +42,9 @@ github 的基础设施的使用：
 # 内容组织
 
 *	用于普通用户的repository，主要用来做使用问题和对新特性的交流
-*	Surdoc API 本省的 repository，API本身的改进
+*	Surdoc API 本身的 repository，API本身的改进
 *	每个应用一个repository
 *	文档 repository 
 *	书 repository （私有，不放在github上，否则需要费用）
 
+**注**：这个方案在使用 github 上不产生费用，以后可根据需要调整。详见 <https://github.com/plans>。
